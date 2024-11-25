@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/joker5691](https://github.com/joker5691)
 
-- 📝 I regularly write articles on [Read stories from K. Niraj Chandra Singha on Medium: https://medium.com/@justluke5691](Read stories from K. Niraj Chandra Singha on Medium: https://medium.com/@justluke5691)
+- 📝 I regularly write articles on [Read stories from K. Niraj Chandra Singha on Medium]: https://medium.com/@justluke5691
 
 - 📫 How to reach me *justluke5691@gmail.com*
 
